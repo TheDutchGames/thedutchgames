@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/TheDutchGames/thedutchgames/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheDutchGames/thedutchgames/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="stylesheet" href="/style.css">
+    
+  </head> 
+  
+  <nav>
+    <ul>
+      <li><a href="index.html"><img src="https://cdn.glitch.com/8faedd11-9a7c-44a0-b807-f7a26b9f743b%2Fbs.png?1537630738594" style="width:80px;height:40px;"></a></li>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="over_server.html">Mc server</a></li>
+      <li><a href="donate.html">Donatie's</a></li>
+      <li><a href="over_ons.html"> Over ons</a></li>
+      <li><a href="Privacy.html"> Privacy</a></li>     
+    </ul>
+  </nav>  
+  
+  <body>    
+    <div class="column">      
+      <p>
+        Welkom op onze website!<br>
+        abonneer ook op ons youtube kanaal <a href="https://www.youtube.com/channel/UCy8jNuQMaPi6vgvSm5RpoQQ">TheDutchGames</a>
+        en join ook zeker onze discord server.
+      </p>
+    </div>
+    <div class="column">
+      <iframe src="https://discordapp.com/widget?id=492975265220132874&theme=dark" height="600" width="300" frameborder="0"></iframe>
+    </div>
+  </body>
+  <foother>
+  <h2></h2>
+  </foother>
+</html>
