@@ -1,5 +1,5 @@
     
-  </head> 
+  
   
   <nav>
     <ul>
@@ -27,4 +27,4 @@
   <foother>
   <h2></h2>
   </foother>
-</html>
+
